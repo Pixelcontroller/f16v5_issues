@@ -1,0 +1,27 @@
+Build 28 : 2023-10-22
+	- Enh : V5 release
+	- Enh : Move temperature specific actions to advanced tab to simplify user experience
+	- Enh : Improve MP3 file conversion error messages
+	- Fix : Some wifi APIs time out
+	- Fix : Load settings from JSON file failing
+	- Fix : Speed up loading of available sequences/playlists on status page
+	- Fix : CMON/Visualiser/Pixel Types pages not working through FPP proxy
+	- Fix : Force OLED on if message displayed to the user
+	- Fix : Timezone change unnecessarily requires reboot
+	- Fix : Improve Wifi cache age
+
+Build 29 : 2023-11-05
+	- Enh : Common firmware release with V5 support
+	- Fix : Address some issues where ESP file system is not loading correctly when first flashed
+	- Fix : V5 : Address some issues with lag updating fuse status
+	
+Build 30 : 2023-11-29
+	- Enh : Add test mode where you can manually set the colour via web interface (3 and 4 channel pixels)
+	- Enh : Add CMY test pattern
+	- Fix : Playing sequence with audio from status page results in lights and audio getting out of sync
+	- Fix : When schedule ends lights do not turn off
+	- Fix : Nulls on smart receivers not being handled correctly
+	
+
+*** If there is a fix in an unreleased build you believe would help fix an issue you are experiencing then reach out to us at 
+support@pixelcontroller.com and we will provide you a pre-release.    
