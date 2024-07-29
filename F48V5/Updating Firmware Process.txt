@@ -1,6 +1,6 @@
-To upgrade the F16V5 firmware:
+To upgrade the F48V5 firmware:
 
-1. Download the chosen F16V5 firmware fl3 file. This file will be named Falcon_16_Firmware_V5_<build>.fl3
+1. Download the chosen F48V5 firmware fl3 file. This file will be named Falcon_48_V5_Firmware_<build>.fl3
 2. Either
 	- Place the file onto an SD card and place that SD card in the SD slot on the controller and reboot 
 	  the conntroller. When the controller boots it will copy the file into flash ram on the board. Remove 
