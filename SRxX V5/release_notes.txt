@@ -1,0 +1,16 @@
+Build 1 : 2023-10-24
+	- Enh : Initial release
+
+Build 2 : 2023-10-29
+	- Fix : Fixes to improve protocol reliability
+	
+Build 3 : 2024-08-18
+	- Enh : Hold last pixel after pixel count
+	- Enh : Add soft fuse support
+	- Fix : Fix some SRx2 issues resulting in non-detection if first on the chain
+	- Fix : Remove pixel flash just before fuses turn off
+
+Build 4 : 2024-xx-xx
+
+*** If there is a fix in an unreleased build you believe would help fix an issue you are experiencing then reach out to us at 
+support@pixelcontroller.com and we will provide you a pre-release.    
