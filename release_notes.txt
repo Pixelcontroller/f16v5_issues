@@ -45,10 +45,11 @@ Build 32 : 2024-07-29
 	- Fix : Settings load not working from JSON file
 	- Fix : Reverse + Zig Zag on same string not supported
 
-Build 33 : 2024-xx-xx
+Build 33 : 2024-11-20
 	- Enh : Add an input action for next/prior/first playlist looped
 	- Enh : Add DMX input mode for low channel count -> large pixel count control
 	- Enh : Include latest SRxV5 firmware in flash and apply that automatically (this can be switched off)
+	- Enh : Add player command to turn on/off test mode
 	- Fix : Universe counter incorrect when multiple E1.31 rows defined
 	- Fix : Add advanced option to continually re-register for multicast
 	- Fix : Enable larger versions of SRxV5 firmware
@@ -62,6 +63,9 @@ Build 33 : 2024-xx-xx
 	- Fix : Reduce fuse blow sensitivity for very brief excessive current
 	- Fix : Fix issues with pixels lighting on receivers after they are meant to have turned off
 	- Fix : Fix some SRx2 message reliability issues
-	
+	- Fix : some receiver flickering issues
+	- Fix : Wifi firmware upload not working
+	- Fix : Charts not working on Safari
+
 *** If there is a fix in an unreleased build you believe would help fix an issue you are experiencing then reach out to us at 
 support@pixelcontroller.com and we will provide you a pre-release.    
