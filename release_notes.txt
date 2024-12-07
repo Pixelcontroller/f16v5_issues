@@ -69,6 +69,13 @@ Build 33 : 2024-11-20
 
 Build 34 : 2024-11-22
 	- Fix : More work on V5 receiver pixels flashing in some configurations
+	
+Build 35 : 2024-12-07
+	- Enh : Reset fuses once per minute in case fuse issue was temporary
+	- Enh : Advanced option to turn off V5 protocol on particular ports - workaround if flashing pixels persist
+	- Enh : Advanced option to turn off receiver discovery - workaround if flashing pixels persist
+	- Fix : More work on flashing pixels on V5 receivers
+	- Fix : Address some TM1814 protocol issues
 
 *** If there is a fix in an unreleased build you believe would help fix an issue you are experiencing then reach out to us at 
 support@pixelcontroller.com and we will provide you a pre-release.    
