@@ -77,5 +77,8 @@ Build 35 : 2024-12-07
 	- Fix : More work on flashing pixels on V5 receivers
 	- Fix : Address some TM1814 protocol issues
 
+Build 36 : 2024-12-08
+	THERE ARE NO CHANGES IN THIS RELEASE FOR V5 BOARDS
+
 *** If there is a fix in an unreleased build you believe would help fix an issue you are experiencing then reach out to us at 
 support@pixelcontroller.com and we will provide you a pre-release.    
