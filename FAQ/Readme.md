@@ -33,5 +33,15 @@ Verify all 3 jumpers next to the DMX RJ45 port are set to the right position.
 
 Install/Reinstall the latest V5 firmware.
 
+## Controller continually tries to upload receivers
 
+You have 2 options:
+
+    1. Manually apply updates to the receivers. Likely what is happening here is the update is not taking and so every time it sees one as not upgraded and tries to do it again. See the instructions on https://github.com/Pixelcontroller/f16v5_issues/tree/main/SRxX%20V5 page for how to manually do an upgrade.
+    2. There is an advanced option to turn it off. Contact us at support@pixelcontoller.com if you want to do this.
+
+## TM1814 pixels flicker
+
+This definitely can happen if you have more pixels attached than the controller is driving so please make sure you are sending data to all pixels.
+If you have other issues contact us at support@pixelcontroller.com.
 
